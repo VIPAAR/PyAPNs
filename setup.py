@@ -6,9 +6,9 @@ setup(
     description = 'A python library for interacting with the Apple Push Notification Service',
     download_url = 'http://github.com/simonwhitaker/PyAPNs',
     license = 'unlicense.org',
-    name = 'apns',
+    name = 'python-apns',
     py_modules = ['apns'],
     scripts = ['apns-send'],
     url = 'http://www.goosoftware.co.uk/',
-    version = '1.1.2',
+    version = '1.1.2.20141116',
 )
